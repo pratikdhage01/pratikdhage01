@@ -16,4 +16,4 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering st
 
 ## Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/pratik-dhage01)
-- 📫 Reach me at: **pratikdhage@domain.com**
+- 📫 Reach me at: **pratikdhage@gmail.com**
