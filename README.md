@@ -3,11 +3,12 @@
 Welcome to my GitHub profile! I'm a passionate **Computer Science Engineering student** specializing in **Artificial Intelligence**. Here's a bit more about me:
 
 - 🎓 **Second-year CSE student** specializing in **AI** at **Vishwakarma Institute of Information Technology**.
-- 🏆 **3-time hackathon winner**, including:
+- 🏆 **4-time hackathon winner**, including:
    - GeekVishwa'24 Hackathon
    - PICT Inc Hackathon
    - DPBH'23 Finalist
-- 🧠 I'm enthusiastic about **Machine Learning**, **Computer Vision**, and **Cybersecurity**.
+   - Vishwacon'24
+- 🧠 I'm enthusiastic about **Machine Learning**, **Computer Vision**.
 - 🛠️ Currently working on projects related to **blockchain**, **cybersecurity**, and **stock trading** platforms.
 - 👨‍💻 I’m skilled in **Python**, **Flask**, **MySQL**, **PL/SQL**, and **Machine Learning (ML)**.
 - 🎮 I interned in **Game Development** during a summer program at **Coventry University** under the guidance of **Adam Worallo**.
